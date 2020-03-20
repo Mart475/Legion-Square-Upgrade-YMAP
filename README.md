@@ -20,18 +20,18 @@ This YMAP does not need a warning. It's perfect as it is.
 
 **Picture.**
 
-![1|690x388](upload://iSElwdiZOXt2gf5jPlzLRbZqjUf.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/8/4/5/8454a18673b76c18b3841da15bca2654a18da14b.jpeg "1")
 
-![2|690x388](upload://32pJNYl65ZJx8C5lrCJ7icQ0Br8.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/1/5/4/154c6977fca74d42b98a17611a71dbd569c769e6.jpeg "2")
 
-![3|690x388](upload://4CnFFSY7mmpOVKQQXsngq4F50EZ.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/2/0/5/205f6659681e1c728fc9d56be41a0d967a66cc55.jpeg "3")
 
-![4|690x388](upload://rQlEXH00ucGiZn5DSMC3XpK5nkM.jpeg)
+![alt text](https://forum.cfx.re/uploads/default/original/4X/c/3/2/c32599292a0bd09bc626a2ecb5fe23bfc17f743c.jpeg "4")
 
-![5|690x388](upload://8f2UqPQMPgUvtypbYYvobmBe2h1.jpeg) 
+![alt text](https://forum.cfx.re/uploads/default/original/4X/3/9/c/39c4d30db1f94339dcc68084e20886923c68d107.jpeg "5")
 
 ---
 
 **Download.**
 
-[Forest Upgrade YMAP - Download.](https://github.com/Mart475/Forest-Overhaul-YMAP)
+[Legion Square Upgrade YMAP - Download.](https://github.com/Mart475/Forest-Overhaul-YMAP)
