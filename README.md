@@ -18,7 +18,7 @@ This YMAP does not need a warning. It's perfect as it is.
 
 ---
 
-**Picture.**
+**Pictures.**
 
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/8/4/5/8454a18673b76c18b3841da15bca2654a18da14b.jpeg "1")
 
