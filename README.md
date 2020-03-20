@@ -34,4 +34,4 @@ This YMAP does not need a warning. It's perfect as it is.
 
 **Download.**
 
-[Legion Square Upgrade YMAP - Download.](https://github.com/Mart475/Forest-Overhaul-YMAP)
+[Legion Square Upgrade YMAP - Download.](https://github.com/Mart475/Legion-Square-Upgrade-YMAP)
