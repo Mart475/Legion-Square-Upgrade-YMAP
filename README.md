@@ -12,6 +12,20 @@ Legion Square Upgrade is an upgrade of the Legion Square area which adds about 2
 
 ---
 
+**Installation.**
+
+* 1: Download Legion Square Upgrade YMAP.
+
+* 2: Un-zip the contents of the zip file.
+
+* 3: Insert into the resource folder (FiveM Server).
+
+* 4: Start the resource (start legionsquareupgrade).
+
+* 5: You have successfully installed this YMAP.
+
+---
+
 **Warning.**
 
 This YMAP does not need a warning. It's perfect as it is.
