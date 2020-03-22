@@ -55,7 +55,3 @@ This YMAP does not need a warning. It's perfect as it is.
 **Download.**
 
 [Legion Square Upgrade YMAP - Download.](https://github.com/Mart475/Legion-Square-Upgrade-YMAP)
-
----
-
-**Developed for [RepublicMP](https://forum.cfx.re/t/republicmp-ts3-voip-realistic-economy-lore-friendly-no-lag-texture-loss-immersive-eup-8-1-discord-gg-99krxme/434713).**
