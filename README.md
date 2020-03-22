@@ -1,5 +1,11 @@
 **[Release] [YMAP] Legion Square Upgrade.**
 
+---
+
+**Developed for [RepublicMP](https://forum.cfx.re/t/republicmp-ts3-voip-realistic-economy-lore-friendly-no-lag-texture-loss-immersive-eup-8-1-discord-gg-99krxme/434713).**
+
+---
+
 Legion Square Upgrade is an upgrade of the Legion Square area which adds about 25+ new props to the area. It was created in Codewalker, each prop hand placed and moved. This YMAP is asthetically pleasing with no errors. You can see the props from far away, and this upgrade is how Rockstar Games should of made Legion Square.
 
 ---
