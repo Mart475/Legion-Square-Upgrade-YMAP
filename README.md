@@ -43,3 +43,10 @@ This YMAP does not need a warning. It's perfect as it is.
 **Download.**
 
 [Legion Square Upgrade YMAP - Download.](https://github.com/Mart475/Legion-Square-Upgrade-YMAP)
+
+---
+
+**FiveM Forum.**
+
+[FiveM Forum Link.](https://forum.cfx.re/t/release-ymap-legion-square-upgrade/769126)
+
