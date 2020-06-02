@@ -35,9 +35,3 @@
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/e/5/2/e522522c484ed878ff8251b3ac3b686a9dae3ed9.jpeg "4")
 
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/1/3/a/13a3d30af32e49dc6cb42631ade2493fd97fb515.jpeg "5")
-
----
-
-**Download.**
-
-[Legion Square Upgrade YMAP - Download.](https://github.com/Mart475/Legion-Square-Upgrade-YMAP)
