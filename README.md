@@ -6,6 +6,10 @@
 
 ---
 
+**Mart Modifications Discord: https://discord.gg/RGuhx6b**
+
+---
+
 *Legion Square but with a bit of an upgrade. Fancy new killer trees, and a bright new skyline. Nothing can be deserted and left to rot, Legion has been upgraded. Just a little bit.*
 
 ---
